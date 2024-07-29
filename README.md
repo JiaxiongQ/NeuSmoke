@@ -4,7 +4,7 @@ This is the official repo for the implementation of "NeuSmoke: Efficient Smoke R
 Please enjoy the [video](https://drive.google.com/file/d/19loAB8ArgWLY8FGT-JKXmF30lUlpHrQE/view?usp=sharing), we will release our code and dataset soon!
 
 ## Acknowlegement
-Our code is built on [TiNeuVox]([https://github.com/Totoro97/NeuS](https://github.com/hustvl/TiNeuVox)) project. 
+Our code is built on [TiNeuVox](https://github.com/hustvl/TiNeuVox) project. 
 
 Our work is closely related to [PINF](https://github.com/RachelCmy/pinf_smoke) and [HyFluid](https://github.com/y-zheng18/HyFluid).
 
