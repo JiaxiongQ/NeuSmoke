@@ -3,6 +3,9 @@ This is the official repo for the implementation of "NeuSmoke: Efficient Smoke R
 
 Please enjoy the [video](https://drive.google.com/file/d/19loAB8ArgWLY8FGT-JKXmF30lUlpHrQE/view?usp=sharing), we will release our code and dataset soon!
 
+## DATASET
+[Google Drive](https://drive.google.com/file/d/15meyjEJws0b5UStGEgqjdhpOT-flYQ_g/view?usp=sharing)
+
 ## Acknowlegement
 Our code is built on [TiNeuVox](https://github.com/hustvl/TiNeuVox) project. 
 
