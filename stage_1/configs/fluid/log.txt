@@ -1,0 +1,5 @@
+Sphere: ghost=0.007 vel=0.005 trans=0.7
+
+Scalar: ghost=0.005 vel=0.001 trans=0.5
+
+Double: ghost=0.005 vel=0.001 trans=0.5
