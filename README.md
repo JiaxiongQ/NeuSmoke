@@ -1,7 +1,7 @@
 # NeuSmoke
 This is the official repo for the implementation of "NeuSmoke: Efficient Smoke Reconstruction and View Synthesis with Neural Transportation Fields" paper (SIGGRAPH Asia 2024).
 
-Please enjoy the [video](https://drive.google.com/file/d/19loAB8ArgWLY8FGT-JKXmF30lUlpHrQE/view?usp=sharing), we will release our code and dataset soon!
+[video](https://drive.google.com/file/d/19loAB8ArgWLY8FGT-JKXmF30lUlpHrQE/view?usp=sharing)
 
 ## DATASET
 [Google Drive](https://drive.google.com/file/d/15meyjEJws0b5UStGEgqjdhpOT-flYQ_g/view?usp=sharing)
